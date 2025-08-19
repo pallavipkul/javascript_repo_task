@@ -1,0 +1,37 @@
+html,body{
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.big_container{
+    height:400px;
+    width:310px;
+    border:1px solid black;
+    padding:30px 50px;
+    background-color: black;
+}
+#container{
+    height:400px;
+     width:300px;
+     border:1px solid black;
+    border-radius: 5%;
+    background-color:white;
+}
+.image{
+    margin-left:23%;
+}
+h1{
+    margin-left:8%;
+}
+#user_input{
+    padding: 5px 7px;
+    margin-bottom: 3%;
+    margin-left:20%;
+
+}
+.btn{
+    margin-left:40%;
+    background-color:rgb(101, 170, 173);
+    padding:2%;
+    border-radius: 5%;
+
+}

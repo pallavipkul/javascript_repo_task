@@ -1,0 +1,59 @@
+body,html{
+    margin-left:25%;
+    margin-top:5%;
+}
+
+#container{
+    border:1px solid black;
+    height:300px;
+    width:100px;
+     display:flex;
+     flex-direction: column;
+     gap:10%;
+}
+#user_button1{
+     height:100px;
+     width:100px; 
+    border-radius:100%;
+}
+
+#user_button2{
+    height:100px;
+    width:100px; 
+    border-radius:100%;
+}
+#user_button3{
+     height:100px;
+     width:100px; 
+    border-radius:100%;
+}
+#btn1{
+    margin-top:5%;
+     height:30px;
+     width:50px;
+}
+#btn2{
+     margin-top:5%;
+     height:30px;
+     width:50px;
+}
+#btn3{
+    margin-top:5%;
+     height:30px;
+     width:50px;
+}
+
+#msg{
+     margin-left:2%;
+     font-size: 30px;
+}
+
+
+#user_button1, #user_button2, #user_button3 {
+    cursor: pointer;
+}
+#user_button1:hover,
+#user_button2:hover,
+#user_button3:hover {
+    opacity: 0.8;
+}

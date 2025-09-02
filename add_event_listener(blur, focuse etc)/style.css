@@ -1,0 +1,33 @@
+
+#name ,#email ,#password,#gender,#submit{
+    width: 40%;
+    margin: 10px ;
+    padding: 8px;
+    border-radius: 5px;
+}
+body,html{
+      font-family: Arial, sans-serif;
+      margin-left:20%;
+      margin-top:5%;
+      background-color: antiquewhite;
+}
+    input {
+      margin-bottom: 10px;
+      padding: 6px;
+      width: 220px;
+    }
+    p {
+      color: red;
+      font-size: 14px;
+      margin: 0 0 10px 0;
+    }
+    button {
+      padding: 8px 15px;
+      background: blue;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: darkblue;
+    }

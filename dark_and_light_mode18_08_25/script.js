@@ -13,6 +13,9 @@ function changeTheme(){
         localStorage.removeItem("light_mode")
     }
 
+
+
+// different apparoches    
 // classList.add("light_mode")
 // classList.remove("light_mode")
 // container.classList.toggle("dark_mode")  
